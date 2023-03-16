@@ -3,6 +3,8 @@
 <details>
  <summary><h3>👨‍💻 A Side Hustle (Developer/Creator)</h3></summary>
 
+</details>
+
 **`An Non-Academic Hat (Developer/Creator)`**
 
 I'm a academic and amateur software developer. This project is a new journey to build a beautiful digital world. Projects are most likely converted from my academic work, hoping to translate to some business ideas.

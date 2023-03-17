@@ -32,7 +32,7 @@ I'm an amateur software developer. This project is a journey to build a beautifu
 
 #
 
-### 📊 Stats
+### 📊 Statistics
 
 <details>
  <summary><h3>👨‍💻 My's Coding Journey</h3></summary>

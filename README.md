@@ -27,6 +27,7 @@ I'm an amateur software developer. This project is a journey to build a beautifu
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 <img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 <img align="left" alt="Cuda" width="30px" style="padding-right:10px;" src="./icons/cuda/cuda.svg" />
+<img align="left" alt="Emacs" width="30px" style="padding-right:10px;" src="./icons/emacs/emacs.svg" />
 <br />
 
 #

@@ -35,5 +35,5 @@ I'm an amateur software developer. This project is a journey to build a beautifu
 ### 📊 Statistics
 
 <details>
- <summary><h3>👨‍💻 My's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 My Journey</h3></summary>
    I started my journey as a kid gamer with a passion to demystify how early-day progammers created many fun games.  Was I teaching myself anything? Not quite. The puzzles they created taught me a lot.   

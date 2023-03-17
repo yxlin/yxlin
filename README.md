@@ -2,7 +2,7 @@
 
 **`A Side Hustle (Developer/Creator)`**
 
-I'm a academic and amateur software developer. This project is a new journey to build a beautiful digital world. Projects are most likely converted from my academic work, hoping to translate to some business ideas.
+I'm an amateur software developer. This project is a journey to build a beautiful virtual world. Projects are most likely converted from my previous unfinished work, hoping to make the world a wonderful place.
 
 ---
 

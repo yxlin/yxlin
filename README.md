@@ -2,7 +2,7 @@
 
 **`A Side Hustle (Developer/Creator)`**
 
-An amateur software developer. This project is a journey to build a beautiful world. Projects are converted from my previous unfinished work in disks and in clouds, hoping them to make the world a wonderful place.
+An amateur software developer. This project is a journey to build a beautiful world. Projects are converted from my previous unfinished work in disks and clouds. So let's make the world a wonderful place.
 
 ---
 
@@ -36,4 +36,4 @@ An amateur software developer. This project is a journey to build a beautiful wo
 
 <details>
  <summary><h3>👨‍💻 My Journey</h3></summary>
-   I started my journey as a kid gamer with a passion to demystify how early-day progammers created many fun games.  Was I teaching myself anything? Not quite. The puzzles they created taught me a lot.   
+   I started my journey as a kid gamer with a passion to demystify how early-day programmers created many fun games.  Was I teaching myself anything? Not quite. The puzzles they created taught me a lot.   

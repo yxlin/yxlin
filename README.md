@@ -2,7 +2,7 @@
 
 **`A Side Hustle (Developer/Creator)`**
 
-An amateur software developer. This project is a journey to build a beautiful world. Projects are converted from my previous unfinished work in disks and clouds. So let's make the world a wonderful place.
+I'm a software developer on a journey to bring ideas to life and build something meaningful. This project is a collection of revived works—converted from past, unfinished efforts scattered across old disks and cloud storage. Each piece reflects a step in learning, growth, and creativity. With renewed purpose, I hope to contribute, in my own way, to making the world a more wonderful place.
 
 ---
 
